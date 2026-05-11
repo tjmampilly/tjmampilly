@@ -19,13 +19,6 @@ Here are the technologies I love working with:
 
 ---
 
-## 🌟 What I'm Working On
-
-- 📝 Online Exam & Question Bank System  
-- 🏢 Building Management System with smart parking features  
-- 📱 Mobile applications focused on automation and real-time management  
-
----
 
 ## 📫 Let's Connect!
 
